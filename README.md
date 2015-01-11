@@ -1,5 +1,5 @@
 # sanbox-template-adapter
-Chrome Extension undersorejs  template engine adapter (CSP)
+undersorejs template engine adapter for Chrome Extension Content Security Policy (CSP)
 
 
 
